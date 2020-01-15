@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1578943857694,
+  "timestamp": 1579103834622,
   "index": "https://Ark.YuePlus.ink/index.html",
   "assetGroups": [
     {
@@ -8,15 +8,17 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
+        "https://Ark.YuePlus.ink/dark.css",
         "https://Ark.YuePlus.ink/favicon.ico",
         "https://Ark.YuePlus.ink/index.html",
-        "https://Ark.YuePlus.ink/main-es2015.5aaaa00ebd2c33b7dfec.js",
-        "https://Ark.YuePlus.ink/main-es5.5aaaa00ebd2c33b7dfec.js",
-        "https://Ark.YuePlus.ink/polyfills-es2015.a69ecc0745e4f539a445.js",
-        "https://Ark.YuePlus.ink/polyfills-es5.db87e958f14988ef8e41.js",
+        "https://Ark.YuePlus.ink/light.css",
+        "https://Ark.YuePlus.ink/main-es2015.2e8d6804dbb4f5d27769.js",
+        "https://Ark.YuePlus.ink/main-es5.2e8d6804dbb4f5d27769.js",
+        "https://Ark.YuePlus.ink/polyfills-es2015.afb091719bbb4e8b75e0.js",
+        "https://Ark.YuePlus.ink/polyfills-es5.029b892e5776caa40b91.js",
         "https://Ark.YuePlus.ink/runtime-es2015.15ebccd70c41d28d4223.js",
         "https://Ark.YuePlus.ink/runtime-es5.15ebccd70c41d28d4223.js",
-        "https://Ark.YuePlus.ink/styles.1d327b36e511b1da9759.css"
+        "https://Ark.YuePlus.ink/styles.3114c07f2fc245b40d40.css"
       ],
       "patterns": []
     },
@@ -227,7 +229,7 @@
     "https://Ark.YuePlus.ink/assets/data/akhr.json": "efdce1b02dd9d8b40920e4a436edb2f41bf38faa",
     "https://Ark.YuePlus.ink/assets/data/aklevel.json": "1a2277806ee936551b7609386e69e48ffcf49c86",
     "https://Ark.YuePlus.ink/assets/data/akmaterial.json": "c0f8f93ad629fcaee490e3a741dec891bc140f8c",
-    "https://Ark.YuePlus.ink/assets/data/charMaterials.json": "38fb45a600413b5957f8a950151a461385b16a11",
+    "https://Ark.YuePlus.ink/assets/data/charMaterials.json": "597824cb19f3a9f7358c7b9334bb64b01f545b5c",
     "https://Ark.YuePlus.ink/assets/data/material.json": "b4570710edcbc9a7776f6bad907e408e72b4b02b",
     "https://Ark.YuePlus.ink/assets/icons/android-chrome-192x192.png": "7656a3b9681b37097efdb2093d25603fcad11441",
     "https://Ark.YuePlus.ink/assets/icons/android-chrome-512x512.png": "02b6113e46f74ea14d5be7b59b1edee45929e461",
@@ -415,15 +417,17 @@
     "https://Ark.YuePlus.ink/assets/img/material/sprite_exp_card_t2.png": "85d29f2efe11e22832fc9c00a33c727362fbe65e",
     "https://Ark.YuePlus.ink/assets/img/material/sprite_exp_card_t3.png": "6c51eb54b064bff654357b4cc6bb0b223d0b889c",
     "https://Ark.YuePlus.ink/assets/img/material/sprite_exp_card_t4.png": "0ed2d6dad7658e24f2d333d7e10f1733b844183d",
+    "https://Ark.YuePlus.ink/dark.css": "aab6d0222c22517fc5870b11d7ed82d8e81f2b4b",
     "https://Ark.YuePlus.ink/favicon.ico": "ca1864b98091318390dae46fbab1232aa2833e2e",
-    "https://Ark.YuePlus.ink/index.html": "f3b637cfdbad67f6b518d67928d5cc1596b137c5",
-    "https://Ark.YuePlus.ink/main-es2015.5aaaa00ebd2c33b7dfec.js": "f6c6296061d5a820a433bd4df2fd7768a7d3c507",
-    "https://Ark.YuePlus.ink/main-es5.5aaaa00ebd2c33b7dfec.js": "7b0f0b4e5d31c75ac535d27db80fd614c9372689",
-    "https://Ark.YuePlus.ink/polyfills-es2015.a69ecc0745e4f539a445.js": "3ff235cd0294c8dfbe6145192d9974c61ccd12ad",
-    "https://Ark.YuePlus.ink/polyfills-es5.db87e958f14988ef8e41.js": "824f00410cbb863f28d48fb27a23e57919a3b686",
+    "https://Ark.YuePlus.ink/index.html": "565cea13ee57011ff92e20bf1a74ef1c1a3dcaad",
+    "https://Ark.YuePlus.ink/light.css": "7399aa0dec84aedbc1b04f7091bfd199a0fd5d2c",
+    "https://Ark.YuePlus.ink/main-es2015.2e8d6804dbb4f5d27769.js": "7a1a5e4f14fe3fc5f7357447b067d684a0d5b8ad",
+    "https://Ark.YuePlus.ink/main-es5.2e8d6804dbb4f5d27769.js": "9706f463398230b51e85367012aa041afb9d338f",
+    "https://Ark.YuePlus.ink/polyfills-es2015.afb091719bbb4e8b75e0.js": "0bd70a2715f80d4c26a7771a7fd6c2f83bc851ee",
+    "https://Ark.YuePlus.ink/polyfills-es5.029b892e5776caa40b91.js": "c0aed47b51428ac7f3a043d34ff6a8d39312e63d",
     "https://Ark.YuePlus.ink/runtime-es2015.15ebccd70c41d28d4223.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://Ark.YuePlus.ink/runtime-es5.15ebccd70c41d28d4223.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://Ark.YuePlus.ink/styles.1d327b36e511b1da9759.css": "f97827d2f312dd1e396e155a0c096528e238c15f"
+    "https://Ark.YuePlus.ink/styles.3114c07f2fc245b40d40.css": "bbf0a01f1b48f67c217045291ed80cad3ddf52ce"
   },
   "navigationUrls": [
     {
