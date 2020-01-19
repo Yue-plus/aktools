@@ -63,6 +63,13 @@
               ],
               "serviceWorker": true,
               "ngswConfigPath": "ngsw-config.json"
+            },
+            "jp": {
+              "outputPath": "dist/aktools/jp",
+              "baseHref": "/jp/",
+              "i18nFile": "src/locale/messages.jp.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "ja"
             }
           }
         },
@@ -74,6 +81,9 @@
           "configurations": {
             "production": {
               "browserTarget": "aktools:build:production"
+            },
+            "jp": {
+              "browserTarget": "aktools:build:jp"
             }
           }
         },

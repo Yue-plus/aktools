@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="b8d80e326bad0ccf3905d032802a54ac95fbab3b" datatype="html">
+        <source>明日方舟工具箱</source>
+        <target>アックナイツ道具箱</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d0e9c3b108e30a30b03b16364bf5086e544fa4fe" datatype="html">
+        <source>by 一只灰猫</source>
+        <target>by GraueNeko</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1a7443afd5019a2dec565352cfb65604187c3459" datatype="html">
+        <source>公开招募</source>
+        <target>公開求人</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b4e3e65377c17b370938eb2fc5af957ad68676e8" datatype="html">
+        <source>升级计算</source>
+        <target>レベルアップ計算</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="690064a44740f73ebcbc70af9aca21e75ecc4772" datatype="html">
+        <source>精英材料</source>
+        <target>昇進素材</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3a7dcc8ecac160422c7349898e9c6bdaed5596f0" datatype="html">
+        <source>干员材料</source>
+        <target>人事素材</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="96c63414e465e84684f745efda3ad54f78724ab2" datatype="html">
+        <source>自动导入(hash)</source>
+        <target>自動入力(hash)</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="562f7a29d7a9b1f13c8e4013e113a14892ac1bb9" datatype="html">
+        <source>联系作者</source>
+        <target>著者に連絡する</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4ff49295d2853657de81bbb06d1a37a5228fa9af" datatype="html">
+        <source>加入我们</source>
+        <target>仕事に参加する</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7729295e1dbc08c1a27806a84f3d4359261f4440" datatype="html">
+        <source>主题</source>
+        <target>配色</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dbb42a41213706d364b5fadecb3fd3db1bcdacef" datatype="html">
+        <source>分享</source>
+        <target>共有する</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a23b20f9a9dd88fade490cf65c92e38391193ce0" datatype="html">
+        <source>帮助</source>
+        <target>説明</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
