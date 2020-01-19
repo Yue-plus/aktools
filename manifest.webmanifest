@@ -3,8 +3,8 @@
   "short_name": "方舟工具箱",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#5c638b",
-  "background_color": "#5c638b",
+  "theme_color": "#000",
+  "background_color": "#000",
   "scope": "/",
   "icons": [
     {
